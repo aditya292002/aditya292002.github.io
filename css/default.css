@@ -3044,28 +3044,28 @@ tbody.collapse.in{
     border-color:transparent
 }
 .navbar-inverse .navbar-brand{
-    color:#666
+    color:#fefefe
 }
 .navbar-inverse .navbar-brand:focus,.navbar-inverse .navbar-brand:hover{
     color:#fff;
     background-color:transparent
 }
 .navbar-inverse .navbar-nav>li>a,.navbar-inverse .navbar-text{
-    color:#666
+    color:#ffffff
 }
 .navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:focus,.navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>li>a:focus,.navbar-inverse .navbar-nav>li>a:hover{
-    color:#888;
+    color:#fffbfb;
     background-color:transparent
 }
 .navbar-inverse .navbar-nav>.disabled>a,.navbar-inverse .navbar-nav>.disabled>a:focus,.navbar-inverse .navbar-nav>.disabled>a:hover{
-    color:#444;
+    color:#ffffff;
     background-color:transparent
 }
 .navbar-inverse .navbar-toggle{
-    border-color:#333
+    border-color:#ffffff
 }
 .navbar-inverse .navbar-toggle:focus,.navbar-inverse .navbar-toggle:hover{
-    background-color:#333
+    background-color:#ffffff
 }
 .navbar-inverse .navbar-toggle .icon-bar{
     background-color:#fff
