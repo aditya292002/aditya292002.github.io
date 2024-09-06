@@ -2642,7 +2642,7 @@ tbody.collapse.in{
     position:relative;
     min-height:20px;
     margin-bottom:19px;
-    border:1px solid transparent;
+    border:1px solid transparent
 }
 .navbar:after,.navbar:before{
     content:" ";
